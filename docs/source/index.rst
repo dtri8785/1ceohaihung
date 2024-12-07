@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+CEO Hải Hưng - Người đứng đầu thành công tại ZOWIN
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`CEO Hải Hưng <https://zowin.soy/hai-hung/>`_ là người sáng lập và điều hành ZOWIN, một trong những cổng game trực tuyến phát triển mạnh mẽ hiện nay. Với tầm nhìn chiến lược sắc bén và sự am hiểu sâu sắc về ngành công nghiệp cá cược trực tuyến, Hải Hưng đã xây dựng ZOWIN trở thành một thương hiệu uy tín, nổi bật với giao diện người dùng mượt mà, kho trò chơi đa dạng và dịch vụ khách hàng chuyên nghiệp. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Dưới sự lãnh đạo của anh, ZOWIN không chỉ thu hút một lượng lớn người chơi mà còn duy trì sự phát triển bền vững nhờ các cải tiến công nghệ và chính sách bảo mật an toàn. CEO Hải Hưng luôn đặt chất lượng dịch vụ và sự hài lòng của người chơi lên hàng đầu, là yếu tố then chốt giúp ZOWIN ngày càng vươn xa và trở thành lựa chọn hàng đầu trong cộng đồng game thủ trực tuyến.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 2721 Đ. Phạm Thế Hiển, Phường 7, Quận 8, Hồ Chí Minh, Vietnam. 
 
-Contents
---------
+Phone: 0795176414. 
 
-.. toctree::
+Email: contact@zowin.soy. 
 
-   usage
-   api
+Website: https://zowin.soy/hai-hung/ 
+
+#haihung #ceohaihung #ceohaihung_zowin
